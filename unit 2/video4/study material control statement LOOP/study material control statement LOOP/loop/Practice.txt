@@ -1,0 +1,3 @@
+Q.Python program to display sum of n natural numbers.
+Q.Display first 10 even numbers and also the sum of even numbers.
+Q.loop using len( ) function.   (string ,list)

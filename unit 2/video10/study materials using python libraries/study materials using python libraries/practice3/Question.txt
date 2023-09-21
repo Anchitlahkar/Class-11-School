@@ -1,0 +1,10 @@
+Q. Write a program in python that calculates the following
+. Area of a circle
+.Circumference of a circle
+.Area of a rectangle
+.Perimeter of a rectangle
+create respective modules for each of the operatios and call them 
+separately using a menu driven program.
+write all circle related functions in one module and rectangle related 
+functions in another module
+

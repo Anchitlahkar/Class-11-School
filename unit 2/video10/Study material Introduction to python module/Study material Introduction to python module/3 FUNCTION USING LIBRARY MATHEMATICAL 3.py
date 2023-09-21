@@ -1,0 +1,30 @@
+print ('some math function execution')
+import math
+#'ceil()- returns smallest integer that is greter than or equal to x ')
+print (math.ceil(5.0))
+print (math.ceil(5.1))
+print (math.ceil(-5.1))
+#'floor()- returns largest integer that is less than or equal to x ')
+print (math.floor(5.0))
+print (math.floor(5.12))
+print (math.floor(-5.9))
+#'pow()- returns the value of x to the power y ')
+print (math.pow(5,2))
+#'sqrt()- returns the square root of x ')
+print (math.sqrt(81))
+#'log10()- returns the base-10 logarithm of x x=10 to the power y -means y is equivallent to- ')
+print (math.log10(10000))
+print (math.log10(1000))
+print (math.log10(100))
+#'cos()- returns the cosine of x in radians ')
+print (math.cos(3))
+#'sin()- returns the sine of x in radians ')
+print (math.cos(3))
+#'tan()- returns the tangent of x in radians ')
+print (math.cos(3))
+#'help()- for python help')
+print (help())
+
+
+
+

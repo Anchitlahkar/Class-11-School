@@ -1,0 +1,66 @@
+Unit 1:
+=======
+Computer Systems and organisation
+Class 1  https://youtu.be/mp7GZWqBHy4 (BAsic Computer Organisation,Types of software,Memory units)
+Class 2  https://youtu.be/ez9_U0NwXoA (Boolean Logic,Number system,Encoding schemes,ASCII,UTF,Unicode)
+class 3  https://youtu.be/7sfhtV3Ot0g (Compiler,interpreter,Operating System,cloud computing)
+
+Unit 2:
+=======
+class 1  https://youtu.be/-yc_p_Vm-Iw (Problem solving cycle,Algorithm,flowchart,pseudo-code,basic python programs)
+Class 2  https://youtu.be/c3FwCO6pD-4 (Python features,token, identifier,comment,operator,execution errors)
+class 3  https://youtu.be/0Us9yUXH89I (Conditional statements if else)
+class 4  https://youtu.be/cEOcMNivtGA (looping)
+class 5  https://youtu.be/lE_2TsCt4D0 (String) 
+class 6  https://youtu.be/SDkFwStnJPw (LIST)(Same as computer science xii)
+class 7  https://youtu.be/7hsWlBW7xK4 (Tuples)
+class 8  https://youtu.be/G_zdgZKpsgM (Dictionary, Same as XI IP)
+class 9  https://youtu.be/32J-WNc7RRM (sorting algorithm)      -----------------not required
+class 10 https://youtu.be/LF7ApzPjJwQ (Introduction to python module)
+
+UNIT 3
+=======
+PPT only Society law and ethics
+
+
+
+ready
+
+Go through link to understand a new concept "Python Module" from unit 2 computational thinking and programming 1
+last topic python module. Study materials will send on mail and microsoft teams as well. All of you practice this 
+and donot hesitate to call me if you find any problem.
+
+
+
+Suggested practical List
+==========================
+class 1 (Practical programs)
+
+
+download python and wamp https://youtu.be/VL6FnbjHHuA
+
+
+
+Computer Systems and organisation. (BAsic Computer Organisation,Types of software,Memory units) Class 1
+
+
+Computer systems and organisation | Unit 1 | Class 11 | 2020-21 | video-1
+Computer systems and organisation | Unit 1 | Class 11 | 2020-21 | video-2
+Computer systems and organisation | Unit 1 | Class 11 | 2020-21 | video-3
+Computational thinking and programming 1| Computer science | Class 11 | Unit 2 | 2020-21 | video-1
+Computational thinking and programming 1| Computer science | Class 11 | Unit 2 | 2020-21 | video-2
+Computational thinking and programming 1| Computer science | Class 11 | Unit 2 | 2020-21 | video-3
+Computational thinking and programming 1|Looping| Computer science | Class 11 | Unit 2 |CBSE|2020-21 | video-4
+Computational thinking and programming 1|String| Computer science | Class 11 | Unit 2 |CBSE|2020-21 | video-5
+
+
+Ready
+UNIT 2
+Computational thinking and programming 1|Tuples| Python | Computer science | Class 11 | Unit 2 |CBSE|2020-21 | viedo - 7
+Computational thinking and programming 1| sorting algorithm | Python | Computer science | Class 11 | Unit 2 |CBSE|2020-21 | viedo - 9
+Computational thinking and programming 1|Python module| Computer science | Class 11 | Unit 2 |CBSE|2020-21 | viedo - 10
+Python Practical programs | CBSE | Suggested | Computer Science
+
+
+
+python,programming,class,class 11, class xi, cbse class xi, cbse class 11,Numpy,specific generi software,python function,using python libraries,module,data handling,dataframe,series,informatics practices,file handling,text,binary,csv,Computer systems and organisation,types of software,memory units,cpu, mobile systems,boolean logic

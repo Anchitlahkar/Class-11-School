@@ -1,0 +1,8 @@
+1. create a module area.py
+	sub modules
+		1. circle area
+		2. retcangle area
+		3. square area
+2. create another module or pogram math1.py to import module area.py
+3. create another module or pogram math2.py to import sub module from area.
+4. create another module or pogram math3.py to import all sub module from area.
